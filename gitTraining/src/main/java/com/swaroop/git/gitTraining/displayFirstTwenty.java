@@ -9,6 +9,19 @@ public class displayFirstTwenty {
 		{
 			System.out.println("Number is " + i);
 		}
+		
+		System.out.println("Printing the pyramid");
+		
+		for(int j=1;j<=6;++j)
+		{
+			for(int k=1;k<=j;++k)
+			{
+				System.out.print("* ");
+			}
+			System.out.println();
+		}
+		
+		
 	}
 
 }
