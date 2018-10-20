@@ -21,6 +21,7 @@ public class displayFirstTwenty {
 			System.out.println();
 		}
 		
+		System.out.println("The numbers are printed Successfully ");
 		
 	}
 
